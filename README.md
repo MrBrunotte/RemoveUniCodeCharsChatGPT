@@ -101,10 +101,3 @@ if __name__ == "__main__":
    * Show you any invisible characters it found (with position and Unicode name).
    * Copy the **cleaned version** of your text back to your clipboard.
 
----
-
-### ✅ Now What?
-
-You can now **paste the cleaned text** anywhere you need (e.g., into a document, form, or email). No more hidden characters!
-
-Would you like me to help you turn this into a **clickable app** for non-technical use?
